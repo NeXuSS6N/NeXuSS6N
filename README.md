@@ -59,5 +59,3 @@ I work with a range of tools and languages to create and develop projects. Here�
 ---
 
 ✨ **Thanks for visiting!** ✨
-
-![GitHub metrics](https://metrics.lecoq.io/NeXuSS6N?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20javascript%2C%20php&languages.limit=10&languages.threshold=0%25&languages.colors=github&languages.indepth=false&languages.animated=false&config.timezone=Europe%2FParis)
