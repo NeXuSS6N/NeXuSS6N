@@ -10,7 +10,7 @@ I'm a passionate **Web Developer** and **Game Enthusiast**. I love creating dyna
   - **Backend**: PHP, MySQL, Node.js
   - **Game Development**: Python (Pygame), Unity
 - 🎮 **Interests**: Gaming, game development, and web technologies.
-- 📚 **Projects**: [Brick Breaker](https://github.com/yourusername/brick-breaker), [NodeJS & HTMX Website](https://github.com/yourusername/project)
+- 📚 **Projects**: [Brick Breaker](https://github.com/NeXuSS6N/CassBrickV2), [NodeJS & HTMX Website](https://github.com/NeXuSS6N/Stage-Website)
 
 ### 📫 How to Reach Me
 - 📧 Email: [ruben.penalvez@gmail.com](mailto:ruben.penalvez@gmail.com)
