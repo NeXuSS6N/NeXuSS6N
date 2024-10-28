@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](https://user-images.githubusercontent.com/NeXuSS6N/banner.png)
+![Banner](https://github.com/NeXuSS6N/NeXuSS6N/blob/61587cfef6904f9034bda5fc7c6c2c6d057aeac2/github-header-image.png)
 
 ---
 
