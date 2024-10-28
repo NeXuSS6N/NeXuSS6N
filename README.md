@@ -9,21 +9,14 @@ I'm a passionate **Web Developer** and **Game Enthusiast**. I love creating dyna
   - **Frontend**: HTML, CSS, JavaScript
   - **Backend**: PHP, MySQL, Node.js
   - **Game Development**: Python (Pygame), Unity
-- 🎮 **Interests**: Gaming (League of Legends - Main: Jayce), game development, and web technologies.
+- 🎮 **Interests**: Gaming, game development, and web technologies.
 - 📚 **Projects**: [Brick Breaker](https://github.com/yourusername/brick-breaker), [NodeJS & HTMX Website](https://github.com/yourusername/project)
 
 ### 📫 How to Reach Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
+- 📧 Email: [ruben.penalvez@gmail.com](mailto:ruben.penalvez@gmail.com)
 
 ### 📈 GitHub Stats
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-### 🎯 Fun Facts
-- I’ve worked in the **green spaces industry** and have technical experience at the **Mairie de Lampaul Plouarzel**.
-- I’m a big fan of **Naruto** and roleplay as a villain in its universe.
-- I host a Minecraft server using **Librahost**.
 
 ### 🔧 Tools I Use
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5)
