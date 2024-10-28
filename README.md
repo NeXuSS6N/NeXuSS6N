@@ -1,32 +1,63 @@
-# 👋 Hello, I'm Ruben!
+# 👋 Hello, I'm Ruben! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=NeXuSS6N&color=blueviolet)
 
-### 💻 About Me
-I'm a passionate **Web Developer** and **Game Enthusiast**. I love creating dynamic websites and working on exciting game development projects. Currently, I’m diving into Unity to build my own **survival shooter** game and enhancing my skills in **Python** and **C**.
+---
+
+![Banner](https://user-images.githubusercontent.com/NeXuSS6N/banner.png)
+
+---
+
+## 💻 About Me
+I'm a passionate **Web Developer** and **Game Enthusiast** dedicated to building immersive websites and exciting games. Currently exploring **Unity** to create my own **survival shooter**, while leveling up my skills in **Python** and **C**!
 
 - 🌱 **Learning**: Unity, C# for game development
-- 💼 **Currently Working On**: Python 'Brick Breaker' game using Pygame
+- 💼 **Current Project**: A Python-based 'Brick Breaker' game with enhanced levels and sound effects
 - ⚙️ **Tech Stack**: 
   - **Frontend**: HTML, CSS, JavaScript
   - **Backend**: PHP, MySQL, Node.js
-  - **Game Development**: Python (Pygame), Unity
-- 🎮 **Interests**: Gaming, game development, and web technologies.
-- 📚 **Projects**: [Brick Breaker](https://github.com/NeXuSS6N/CassBrickV2), [NodeJS & HTMX Website](https://github.com/NeXuSS6N/Stage-Website)
+  - **Game Dev**: Python (Pygame), Unity
+- 🎮 **Interests**: Gaming, web technologies, and game development
 
-### 📫 How to Reach Me
-- 📧 Email: [ruben.penalvez@gmail.com](mailto:ruben.penalvez@gmail.com)
+---
 
-### 📈 GitHub Stats
-![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+## 🚀 Featured Projects
+Here’s a taste of what I’ve been working on! Check out these featured repositories for a deeper dive into my work.
 
-### 🔧 Tools I Use
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/Code-PHP-purple?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js)
-![Unity](https://img.shields.io/badge/Game%20Dev-Unity-black?style=flat&logo=unity)
+[![🕹️ Brick Breaker Game](https://github-readme-stats.vercel.app/api/pin/?username=NeXuSS6N&repo=CassBrickV2&theme=dark)](https://github.com/NeXuSS6N/CassBrickV2)
+[![🌐 NodeJS & HTMX Project](https://github-readme-stats.vercel.app/api/pin/?username=NeXuSS6N&repo=Stage-Website&theme=dark)](https://github.com/NeXuSS6N/Stage-Website)
 
-### 📌 Pinned Repositories
-- [🕹️ Brick Breaker Game](https://github.com/NeXuSS6N/CassBrickV2)
-- [🌐 NodeJS & HTMX Project](https://github.com/NeXuSS6N/Stage-Website)
+---
+
+## 📈 GitHub Stats & Activity
+Check out my GitHub statistics to see my contribution streaks, top languages, and activity!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeXuSS6N&show_icons=true&theme=radical" alt="Ruben's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeXuSS6N&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Contact Me
+Want to reach out? Feel free to connect!
+
+[![Email](https://img.shields.io/badge/Email-ruben.penalvez%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.penalvez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-penalvez)
+
+---
+
+## 🔧 Tools & Technologies
+I work with a range of tools and languages to create and develop projects. Here’s a snapshot of my stack!
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+✨ **Thanks for visiting!** ✨
+
+![GitHub metrics](https://metrics.lecoq.io/NeXuSS6N?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css%2C%20javascript%2C%20php&languages.limit=10&languages.threshold=0%25&languages.colors=github&languages.indepth=false&languages.animated=false&config.timezone=Europe%2FParis)
