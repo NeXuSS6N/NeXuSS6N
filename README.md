@@ -41,7 +41,7 @@ Check out my GitHub statistics to see my contribution streaks, top languages, an
 Want to reach out? Feel free to connect!
 
 [![Email](https://img.shields.io/badge/Email-ruben.penalvez%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.penalvez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-penalvez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-pénalvez/)
 
 ---
 
