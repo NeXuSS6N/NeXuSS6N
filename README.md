@@ -28,6 +28,5 @@ I'm a passionate **Web Developer** and **Game Enthusiast**. I love creating dyna
 ![Unity](https://img.shields.io/badge/Game%20Dev-Unity-black?style=flat&logo=unity)
 
 ### 📌 Pinned Repositories
-- [🕹️ Brick Breaker Game](https://github.com/yourusername/brick-breaker)
-- [🌐 NodeJS & HTMX Project](https://github.com/yourusername/project)
-- [🔧 Survival Shooter (Unity)](https://github.com/yourusername/survival-shooter)
+- [🕹️ Brick Breaker Game](https://github.com/NeXuSS6N/CassBrickV2)
+- [🌐 NodeJS & HTMX Project](https://github.com/NeXuSS6N/Stage-Website)
