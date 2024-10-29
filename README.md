@@ -1,7 +1,3 @@
-# 👋 Hello, I'm Ruben! &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=NeXuSS6N&color=blueviolet)
-
----
-
 ![Banner](https://github.com/NeXuSS6N/NeXuSS6N/blob/61587cfef6904f9034bda5fc7c6c2c6d057aeac2/github-header-image.png)
 
 ---
