@@ -31,16 +31,6 @@ Check out my GitHub statistics to see my contribution streaks, top languages, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeXuSS6N&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
----
-
-## 📫 Contact Me
-Want to reach out? Feel free to connect!
-
-[![Email](https://img.shields.io/badge/Email-ruben.penalvez%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben.penalvez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-pénalvez/)
-
----
-
 ## 🔧 Tools & Technologies
 I work with a range of tools and languages to create and develop projects. Here’s a snapshot of my stack!
 
