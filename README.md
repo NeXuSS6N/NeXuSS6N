@@ -1,87 +1,76 @@
-<!-- NeXuSS6N - Profile README -->
-<!-- Minimalist Portfolio Style -->
+<!-- Creative + Animated GitHub README -->
 
-<h1 align="center">👾 NeXuSS6N</h1>
-<h3 align="center"><em>Code. Game. Break. Repeat.</em></h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Ruben+aka+NeXuSS6N;Web+Dev+%F0%9F%92%BB+%7C+Game+Maker+%F0%9F%8E%AE+%7C+Cyber+Explorer+%F0%9F%94%90;Building+Cool+Stuff+since+Day+1+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
 
 ---
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+### 🧠 About Me
+
+```bash
+> Passionate about building interactive experiences.
+> Gamer at heart, developer by choice.
+> Currently crafting: a survival shooter in Unity & a retro Brick Breaker clone.
+```
+
+- 🌍 From: France 🇫🇷  
+- 🎮 Favorite tools: Unity, Python, Node.js  
+- 🌱 Currently exploring: C#, game physics & cybersecurity  
+- 🚀 Dreaming of: creating playable art
+
+---
+
+### 🛠 Tech Stack
+
 <p align="center">
-  <strong>🔍 Je ne cherche pas à faire "comme tout le monde". Je code pour créer ce qui n'existe pas encore.</strong><br>
-  <br>
-  🎮 Game Dev en devenir | 🌐 Développeur Web | 🧠 Explorateur de systèmes<br>
-  Actuellement : Survie, IA, réseau & créativité numérique.
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,nodejs,unity,figma,c" />
 </p>
 
 ---
 
-## 🧬 Profil technique
+### 📌 Highlighted Projects
 
-whoami
-"Ruben (aka NeXuSS6N)"
-
-skills --list
-[ "HTML", "CSS", "JS", "PHP", "Python", "MySQL", "Node.js", "Unity", "Pygame", "C", "Cybersecurity" ]
-
-status
-📚 Learning: Unity (C#), Scripting réseaux, Optimisation d’outils
-
-motto
-"Every bug is a puzzle. Every fix is progress."
----
-
-## 🎮 Mes univers
-
-🧱 **Brick Breaker Reimagined**  
-> Un casse-brique évolutif en Python avec niveaux, sons, menu, et logique propre  
-→ [Voir sur GitHub](https://github.com/NeXuSS6N/CassBrickV2)
-
-🌐 **Stage Website (Node.js + HTMX)**  
-> Site pro développé pendant un stage militaire. Backend structuré + frontend dynamique.  
-→ [Voir sur GitHub](https://github.com/NeXuSS6N/Stage-Website)
+| 🎮 Game Dev | 🌐 Web Dev |
+|------------|------------|
+| [🧱 Brick Breaker V2](https://github.com/NeXuSS6N/CassBrickV2) | [📡 Stage Website - HTMX/NodeJS](https://github.com/NeXuSS6N/Stage-Website) |
+| `Pygame + levels + sound + menu` | `Node.js + HTMX + secure DB` |
 
 ---
 
-## 🧠 Zone projet
-
-💡 Ce que je veux créer dans les mois à venir :
-- [ ] 🎯 Un jeu de tir survival jouable (Unity)
-- [ ] 🧪 Un outil d’audit réseau intelligent
-- [ ] ⚙️ Un dashboard web interactif pour communauté Discord
-- [ ] 💬 Une interface d’IA narrative (type RPG textuel)
-
----
-
-## 🛠️ Mon Atelier
-
-**Frontend**  
-HTML • CSS • JavaScript • Bootstrap  
-
-**Backend**  
-PHP • MySQL • Node.js • Express  
-
-**Jeux & Logiciel**  
-Python (Pygame) • Unity • C • Git  
-
-**Tools**  
-Visual Studio Code • Figma • Wireshark • Postman • Linux Terminal  
-
----
-
-## 📟 Terminal Social
-
-| Plateforme | Lien |
-|------------|------|
-| 🧠 Discord | `@NeXuSS6N` |
-| 🧷 GitHub | [github.com/NeXuSS6N](https://github.com/NeXuSS6N) |
-| 🖼️ Banner | [Voir le header](https://github.com/NeXuSS6N/NeXuSS6N/blob/main/github-header-image.png) |
-
----
+### 🔥 GitHub Stats
 
 <p align="center">
-  🌀 <em>"Créer, c’est oser casser pour reconstruire mieux."</em>  
+  <img src="https://github-readme-stats.vercel.app/api?username=NeXuSS6N&show_icons=true&theme=midnight-purple&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeXuSS6N&theme=midnight-purple&hide_border=true" width="49%">
 </p>
 
+---
+
+### 💡 What I’m working on
+
+- 👾 A full multiplayer survival shooter (Unity)
+- 🔒 A network pentest toolkit (Python + GUI)
+- 📱 A Discord economy dashboard
+- 🧬 A branching text-based RPG AI engine
+
+---
+
+### 🎯 Let's Connect
+
 <p align="center">
-  ⭐️ Merci de visiter mon profil. Reviens voir mes updates !
+  <a href="https://discord.com/users/NeXuSS6N" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&width=1000&lines=Code+is+my+canvas.;Games+are+my+language.;Welcome+to+my+world+🧪" alt="Typing SVG footer" />
 </p>
