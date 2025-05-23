@@ -5,11 +5,9 @@
 </div>
 
 ```
-> id: NeXuSS6N
-> alias: Ruben
-> location: [REDACTED]
+> id: Awizz
+> location: [somewhere]
 > status: Active
-> mission: Develop. Test. Exploit. Build again.
 ```
 
 ---
@@ -26,10 +24,10 @@
 
 ---
 
-### 📁 Ops Log
+### 📁 Cool-Repos
 
-- [🧱 CassBrickV2](https://github.com/NeXuSS6N/CassBrickV2) — classic game, custom logic, rebuilt
-- [📡 Stage Website](https://github.com/NeXuSS6N/Stage-Website) — structured backend + reactive frontend
+- [💻 C2 Framework RAT](https://github.com/NeXuSS6N/C2-Framework---RAT) — East to use RAT
+- [🎮 LoL Orbwalker](https://github.com/NeXuSS6N/LoLOrbwalker) — Old League of Legends cheat that i made
 
 ---
 
@@ -45,8 +43,8 @@
 ### 📡 Contact Node
 
 ```
-> discord: @NeXuSS6N
-> status: encrypted
+> discord: @awizzzoff
+> status: here
 ```
 
 ---
