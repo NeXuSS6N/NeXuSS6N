@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=FF6A00&center=true&vCenter=true&width=900&lines=Initializing+Reiryoku...;Reiatsu+Stabilized.;Bankai:+%E5%88%83%E9%9C%B2%E6%89%80%E5%AE%88%E6%98%8E+(Zangetsu)+Online." alt="Typing">
 </p>
 
-<h1 align="center">🗡️ Awizz (NeXuSS6N) — Shinigami Dev · Cyber Ops · Net</h1>
+<h1 align="center">🗡️ Awizz — Dev · Cyber Ops · Net</h1>
 
 <!-- INLINE "REIATSU" DIVIDER -->
 <p align="center">
@@ -32,8 +32,8 @@
         
 ```bash
 > id: Awizz
-> div: 11th Squad (DevOps)
-> location: Soul Society / Paris
+> div: 11th Squad
+> location: Soul Society
 > status: Active | Training | Shipping
 ```
 
@@ -43,8 +43,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Bankai-Ready-FF6A00?style=for-the-badge"></a>
 </p>
 
-> Je construis des outils **réseaux / sécurité / automation**, des **bots** et des **projets gameplay**.  
-> J’aime quand ça **scale**, que ça **log** propre, et que ça **frappe** comme une libération de Bankai.
+> Je dev des trucs.  
       </td>
     </tr>
   </table>
@@ -123,7 +122,7 @@ Ops: Linux · Docker · Networking · Cyber · Automation
 ```bash
 discord: @awizzzoff
 status: here
-mail:   replace@youremail.tld
+mail:   awizz.pro@proton.me
 ```
 
 <p align="center">
